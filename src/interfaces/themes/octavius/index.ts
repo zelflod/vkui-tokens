@@ -193,6 +193,7 @@ export interface LocalOctaviusColorsDescriptionStruct {
 	octaviusColorEmptyStateTextLink: ColorDescription;
 	octaviusColorLetterPreviewBackgroundPrimary: ColorDescription;
 	octaviusColorLetterPreviewBackgroundSecondary: ColorDescription;
+	octaviusColorLetterContactBackgroundAlpha: ColorDescription;
 	octaviusTextDecorationEmptyStateTextLink: ColorDescription;
 	octaviusColorNotificationBorder: ColorDescription;
 }
